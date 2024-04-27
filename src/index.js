@@ -54,6 +54,7 @@ function SkillList() {
         <Skill name="React" color="aqua" emoji="⚛️" />
         <Skill name="JavaScript" color="red" emoji="🚀" />
         <Skill name="Git and Github" color="grey" emoji="🐙" />
+        <Skill name  = "Deep Learning" color="brown" emoji="🧠"/>
     </div>
   )
 }
