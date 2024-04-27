@@ -31,7 +31,7 @@ function Intro() {
         Full Stack Web Developer and Teacher at CodeGen. Apart from fullstack i
         have an huge interest on AI/ML related stuffs. When
         its not coding i am guy who will spend my time on watching
-        crime, thriller TV series and Movies
+        crime, thriller TV series and Movies with some snacks
       </p>
     </div>
   );
